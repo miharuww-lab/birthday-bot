@@ -1,0 +1,8 @@
+{
+  "register_channel_id": "",
+  "admin_channel_id": "",
+  "birthday_role_id": "",
+  "register_role_id": "",
+  "cron_time": "5 0 * * *",
+  "timezone": "Asia/Tokyo"
+}
